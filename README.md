@@ -36,7 +36,7 @@ Use the following keys to control the snake:
 ### For Windows:
 1. Save the code as `snake.cpp`.
 2. Open a terminal or your C++ IDE.
-3. Compile the code and done!.
+3. Compile the code and done! enjoy playing the game and understanding the logic behind it.
 
 ---
 ⚠ This game uses conio.h and windows.h, so it works only on Windows systems.
