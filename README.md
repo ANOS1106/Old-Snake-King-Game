@@ -47,3 +47,4 @@ Use the following keys to control the snake:
 3.High score tracking
 4.Colored interface using console text attributes
 5.Cross-platform version (Linux/Mac)
+6.For any further suggestions can connect with me on Linkdin. 
